@@ -96,6 +96,22 @@ Previously and alongside: full-stack web development across the PHP/Laravel and 
 
 *Open to senior full-stack roles and consulting engagements.*
 
+## 07 · All Repositories
+
+Every public repository, most recently updated first — a complete index. The curated selection above highlights original work; forks are listed for completeness only.
+
+| Repository | Description | Language | Type |
+|---|---|---|---|
+| [rasel530](https://github.com/rasel530/rasel530) | GitHub profile README (this page) | — | Source |
+| [Smart-Technologies-B2C](https://github.com/rasel530/Smart-Technologies-Bangladesh-B2C-Website-Redevelopment) | Smart Technologies Bangladesh B2C Ecommerce Website | JavaScript | Source |
+| [rasel-portfolio](https://github.com/rasel530/rasel-portfolio) | My personal website portfolio | Blade | Source |
+| [dstar-cloud-pos](https://github.com/rasel530/dstar-cloud-pos) | Professional cloud-based POS software | PHP | Source |
+| [markitdown](https://github.com/rasel530/markitdown) | Python tool for converting files and office documents to Markdown | Python | Fork |
+| [BootStrap-Theme](https://github.com/rasel530/BootStrap-Theme) | — | HTML | Fork |
+| [test](https://github.com/rasel530/test) | Practice repository for git and GitHub knowledge | — | Source |
+| [rasel-info](https://github.com/rasel530/rasel-info) | Personal notes and info | — | Source |
+| [Laravel](https://github.com/rasel530/Laravel) | — | PHP | Fork |
+
 <div style="font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:11.5px;color:#6e7681;margin-top:6px;">
-CURATED SUMMARY OF PUBLIC REPOSITORIES · FULL LIST IN THE <a href="https://github.com/rasel530?tab=repositories">REPOSITORIES</a> TAB · LAST REVIEWED SEPTEMBER 2026
+LAST REVIEWED · SEPTEMBER 2026
 </div>
