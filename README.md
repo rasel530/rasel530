@@ -98,14 +98,15 @@ Previously and alongside: full-stack web development across the PHP/Laravel and 
 
 ## 07 · All Repositories
 
-Every public repository, most recently updated first — a complete index. The curated selection above highlights original work; forks are listed for completeness only.
+Every public repository — primary and active projects first, then the rest. Complete index; forks are listed for completeness only.
 
 | Repository | Description | Language | Type |
 |---|---|---|---|
 | [rasel530](https://github.com/rasel530/rasel530) | GitHub profile README (this page) | — | Source |
-| [Smart-Technologies-B2C](https://github.com/rasel530/Smart-Technologies-Bangladesh-B2C-Website-Redevelopment) | Smart Technologies Bangladesh B2C Ecommerce Website | JavaScript | Source |
-| [rasel-portfolio](https://github.com/rasel530/rasel-portfolio) | My personal website portfolio | Blade | Source |
 | [dstar-cloud-pos](https://github.com/rasel530/dstar-cloud-pos) | Professional cloud-based POS software | PHP | Source |
+| [rasel-portfolio](https://github.com/rasel530/rasel-portfolio) | My personal website portfolio | Blade | Source |
+| [2026-WC-Bracket-Predictor](https://github.com/rasel530/2026-WC-Bracket-Predictor) | 2026 WC Bracket Predictor | TypeScript | Source |
+| [Smart-Technologies-B2C](https://github.com/rasel530/Smart-Technologies-Bangladesh-B2C-Website-Redevelopment) | Smart Technologies Bangladesh B2C Ecommerce Website | JavaScript | Source |
 | [markitdown](https://github.com/rasel530/markitdown) | Python tool for converting files and office documents to Markdown | Python | Fork |
 | [BootStrap-Theme](https://github.com/rasel530/BootStrap-Theme) | — | HTML | Fork |
 | [test](https://github.com/rasel530/test) | Practice repository for git and GitHub knowledge | — | Source |
