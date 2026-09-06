@@ -2,10 +2,10 @@
 <h1 style="font-family:Georgia,'Times New Roman',serif;font-weight:600;font-size:42px;letter-spacing:-0.02em;margin:0 0 8px 0;line-height:1.15;">Rasel Bepari</h1>
 <div style="font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:12.5px;color:#6e7681;letter-spacing:0.06em;margin-bottom:16px;">
 SENIOR WEB DEVELOPER · FULL-STACK — DHAKA, BANGLADESH · UTC+06:00<br/>
-PHP / LARAVEL + TYPESCRIPT / REACT · SMART TECHNOLOGIES (BD) LTD. · <a href="https://raselinfo.com/">RASELINFO.COM</a>
+PHP / LARAVEL + TYPESCRIPT / REACT · SMART TECHNOLOGIES (BD) LTD.
 </div>
 <p style="margin:0;font-size:16px;line-height:1.65;">
-Business software is unforgiving — totals must reconcile, stock must stay correct under several registers at once, and a platform that stalls mid-shift costs money. That is the kind of software I build: full-stack web applications where the data model, the business rules, and the interface are designed as one system, then watched in production. Full-stack development since 2012.
+Business software is unforgiving — totals must reconcile, stock must stay correct under several registers at once, and a platform that stalls mid-shift costs money. That is the kind of software I build: full-stack web applications where the data model, the business rules, and the interface are designed as one system — and kept observable after they ship. Full-stack development since 2012.
 </p>
 </div>
 
@@ -15,7 +15,7 @@ PHP · Laravel · Blade · Alpine.js · Tailwind CSS &nbsp;&nbsp;|&nbsp;&nbsp; T
 
 ## 01 · The Stack
 
-Most of my recent work sits on one of two production stacks, each used end to end — schema, API, UI, and deployment tooling.
+Most of my recent work sits on one of two production stacks — each applied end to end, from database schema and API design through to the interface.
 
 <div style="display:flex;gap:24px;flex-wrap:wrap;margin:6px 0 4px;">
 <div style="flex:1;min-width:280px;">
@@ -50,7 +50,7 @@ Multi-branch POS for restaurants, cafés, and multi-location retail: catalog and
 <div style="font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:11.5px;color:#6e7681;letter-spacing:0.12em;margin-bottom:6px;">02 · E-COMMERCE / REDEVELOPMENT</div>
 <div style="font-size:19px;font-weight:650;"><a href="https://github.com/rasel530/Smart-Technologies-Bangladesh-B2C-Website-Redevelopment">Smart Technologies B2C Website</a> &nbsp;<span style="font-weight:400;color:#6e7681;">— e-commerce redevelopment</span></div>
 <p style="margin:10px 0 8px;line-height:1.65;">
-Full redevelopment of the Smart Technologies Bangladesh B2C e-commerce platform — a monorepo with a typed Next.js storefront (React 18, TypeScript) talking to a Node.js/Express API with Prisma and JWT authentication, on PostgreSQL with Redis and Elasticsearch in a Docker-based stack. Auth, registration, profile, and account flows were rebuilt and tested end to end.
+Full redevelopment of the Smart Technologies Bangladesh B2C e-commerce platform — a monorepo with a typed Next.js storefront (React 18, TypeScript) talking to a Node.js/Express API with Prisma and JWT authentication, on PostgreSQL with Redis and Elasticsearch in a Docker-based stack. Login, registration, profile, and account flows were rebuilt and verified as part of the work.
 </p>
 <div style="font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:12px;color:#6e7681;">Next.js 14 · React 18 · TypeScript · Tailwind CSS · Express 5 · Prisma · PostgreSQL · Redis · Docker</div>
 <div style="font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:12px;color:#6e7681;margin-top:6px;">WHAT IT SHOWS — shipping a modern TypeScript full stack: authenticated storefront flows, API security, and containerized infrastructure.</div>
@@ -92,16 +92,9 @@ Previously and alongside: full-stack web development across the PHP/Laravel and 
 ## 06 · Connect
 
 <div style="border:1px solid #d0d7de;border-radius:14px;padding:18px 22px;margin:18px 0;">
-<table style="border-collapse:collapse;width:100%;">
-<tr>
-<td width="50%" valign="top" style="padding:4px 8px 4px 0;"><strong>Email</strong><br/><a href="mailto:raselbepari88@gmail.com">raselbepari88@gmail.com</a></td>
-<td width="50%" valign="top" style="padding:4px 0 4px 8px;"><strong>LinkedIn</strong><br/><a href="https://www.linkedin.com/in/rasel-bepari-910b7265">linkedin.com/in/rasel-bepari-910b7265</a></td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="padding:4px 8px 4px 0;"><strong>Website</strong><br/><a href="https://raselinfo.com/">raselinfo.com</a></td>
-<td width="50%" valign="top" style="padding:4px 0 4px 8px;"><strong>GitHub</strong><br/><a href="https://github.com/rasel530">github.com/rasel530</a></td>
-</tr>
-</table>
+<div style="margin:0 0 12px;"><strong>Email</strong><br/><a href="mailto:raselbepari88@gmail.com">raselbepari88@gmail.com</a></div>
+<div style="margin:0 0 12px;"><strong>LinkedIn</strong><br/><a href="https://www.linkedin.com/in/rasel-bepari-910b7265">linkedin.com/in/rasel-bepari-910b7265</a></div>
+<div style="margin:0;"><strong>GitHub</strong><br/><a href="https://github.com/rasel530">github.com/rasel530</a></div>
 </div>
 
 <div style="font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:11.5px;color:#6e7681;margin-top:6px;">
