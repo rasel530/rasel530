@@ -4,7 +4,7 @@
 
 Dhaka, Bangladesh · UTC+06:00 · [raselinfo.com](https://raselinfo.com/) · [github.com/rasel530](https://github.com/rasel530)
 
-Full-stack web development since 2012. Currently with **Smart Technologies (BD) Ltd.**, building and maintaining business-critical web applications — point-of-sale, e-commerce, and data-management platforms — where reliable business logic and correct numbers matter as much as a clean interface.
+I design, build, and operate full-stack web applications for businesses — currently with **Smart Technologies (BD) Ltd.**, working on point-of-sale, e-commerce, and data-management platforms. My focus is engineering quality that survives production: accurate data and financial logic, role-based multi-branch systems, responsive interfaces, and the built-in monitoring that keeps it healthy. Full-stack development since 2012, across PHP/Laravel and JavaScript/TypeScript.
 
 ---
 
@@ -79,8 +79,8 @@ Full-stack web development since **2012**, working across the PHP/Laravel and Ja
 
 - Website: [raselinfo.com](https://raselinfo.com/)
 - GitHub: [github.com/rasel530](https://github.com/rasel530)
-- Email: [ADD EMAIL]
-- LinkedIn: [ADD LINK]
+- Email: [raselbepari88@gmail.com](mailto:raselbepari88@gmail.com)
+- LinkedIn: [linkedin.com/in/rasel-bepari-910b7265](https://www.linkedin.com/in/rasel-bepari-910b7265)
 
 Available for senior full-stack roles and freelance/consulting engagements.
 
